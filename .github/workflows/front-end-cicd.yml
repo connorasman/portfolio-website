@@ -1,5 +1,4 @@
 - name: S3 Sync
-
 on: 
   push: 
     branches: 
