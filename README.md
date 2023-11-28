@@ -3,7 +3,7 @@ This is my cloud resume challenge in AWS.  The challenge is a multiple-step resu
 Forrest Brazael created the challenge prompts and you can learn more at https://cloudresumechallenge.dev/docs/the-challenge/aws/. 
 
 # Architecture
-![Website Architecture   (1)](https://github.com/connorasman/portfolio-website/assets/151185435/8fe6d079-7e80-4380-a2e8-7f2886eec0b1)
+![Connorasman com Architecture  ](https://github.com/connorasman/portfolio-website/assets/151185435/f44c8dc3-fe6f-4fa4-878e-51610db140ab)
 
 
 
